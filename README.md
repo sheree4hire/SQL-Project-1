@@ -1,5 +1,7 @@
 <h1>SQL Techniques</h1>
 
+<img width="410" alt="SQL Project 1" src="https://github.com/sheree4hire/SQL-Project-1/blob/main/SQL%20Techniques.jpg">
+
 ### SQL projects demonstrate comprehensive skills like: 
  - <b>Retrieving Data from a Single Table</b>
  - <b>Filtering and Calculating Data</b>
@@ -12,5 +14,7 @@ In preparation for success planning, the AVP of Lending is reviewing the lending
 <br />
 
 <img width="410" alt="SQL Project 1" src="https://github.com/sheree4hire/SQL-Project-1/blob/main/SQL%20Project%201.png">
+
+
 
 
